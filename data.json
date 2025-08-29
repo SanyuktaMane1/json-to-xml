@@ -1,0 +1,26 @@
+[
+  {
+    "sourceSystem": "Banner",
+    "idAtSource_id": "A01073067",
+    "idAtSource_email": "ikuzmik@norwich.edu",
+    "oclcExpirationDate": "2026-08-19T00:00:00",
+    "givenName": "Ian",
+    "middleName": "",
+    "familyName": "Kuzmik",
+    "gender": "MALE",
+    "barcode": "A01073067",
+    "borrowerCategory": "NU Staff",
+    "homeBranch": "117905",
+    "illId": "A01073067",
+    "illPatronType": "NU Staff",
+    "emailAddress": "ikuzmik@norwich.edu",
+    "isPrimary_email": true,
+    "streetAddressLine1": "123 Real St",
+    "streetAddressLine2": "",
+    "cityOrLocality": "Citiapolis",
+    "stateOrProvince": "VT",
+    "postalCode": "00000-0000",
+    "country": "United States of America",
+    "isPrimary_address": true
+  }
+]
